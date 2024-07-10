@@ -2,6 +2,9 @@
 
 Interactive implementation of Conway's Game of Life, with a graphical sandbox environment.
 
+![image](https://github.com/TTayJus/GameOfLife/blob/main/image.png)
+
+
 ## Features
 
 - Graphical interface using SDL2
